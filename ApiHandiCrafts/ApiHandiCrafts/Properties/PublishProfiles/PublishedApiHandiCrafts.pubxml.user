@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\PublishedApiHandicrafts</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>02/03/2016 05:33:32</publishTime>
+    </File>
+    <File Include="bin/ApiHandiCrafts.Contract.dll">
+      <publishTime>04/30/2016 23:27:31</publishTime>
+    </File>
+    <File Include="bin/ApiHandiCrafts.dll">
+      <publishTime>04/30/2016 23:27:37</publishTime>
+    </File>
+    <File Include="bin/ApiHandiCrafts.Repository.dll">
+      <publishTime>04/30/2016 23:27:33</publishTime>
+    </File>
+    <File Include="bin/ApiHandiCrafts.Service.dll">
+      <publishTime>04/30/2016 23:27:35</publishTime>
+    </File>
+    <File Include="bin/Autofac.dll">
+      <publishTime>02/03/2016 08:28:42</publishTime>
+    </File>
+    <File Include="bin/Autofac.Integration.WebApi.dll">
+      <publishTime>02/03/2016 08:28:42</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>02/03/2016 05:33:37</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>02/03/2016 05:33:37</publishTime>
+    </File>
+    <File Include="bin/Ioc.Container.dll">
+      <publishTime>04/30/2016 23:27:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>02/03/2016 05:33:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>02/03/2016 05:33:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>02/03/2016 05:33:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Cors.dll">
+      <publishTime>02/25/2016 17:39:11</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>02/03/2016 05:33:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>02/03/2016 05:33:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>02/03/2016 05:33:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>02/03/2016 05:33:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>02/03/2016 05:33:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>02/03/2016 05:33:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>02/03/2016 05:33:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>02/03/2016 05:33:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>02/03/2016 05:33:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>02/03/2016 05:33:32</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Bson.dll">
+      <publishTime>02/27/2016 08:44:35</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Driver.Core.dll">
+      <publishTime>02/27/2016 08:44:36</publishTime>
+    </File>
+    <File Include="bin/MongoDB.Driver.dll">
+      <publishTime>02/27/2016 08:44:36</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>02/03/2016 05:33:35</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>02/03/2016 05:33:40</publishTime>
+    </File>
+    <File Include="bin/ServiceLocation.dll">
+      <publishTime>02/20/2016 10:25:04</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>02/03/2016 05:47:41</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>02/23/2016 19:54:29</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>02/03/2016 05:47:42</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>02/03/2016 05:47:43</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>02/03/2016 05:33:31</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>02/03/2016 05:33:33</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>02/03/2016 05:33:28</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>02/03/2016 05:33:28</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>02/03/2016 05:33:22</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>02/03/2016 05:33:22</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>02/03/2016 05:33:28</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>02/03/2016 05:33:28</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>02/03/2016 05:33:28</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>02/03/2016 05:33:28</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>02/04/2016 21:44:33</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>02/25/2016 17:46:04</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.js">
+      <publishTime>02/03/2016 05:33:28</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>02/03/2016 05:33:28</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.js">
+      <publishTime>02/03/2016 05:33:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.js">
+      <publishTime>02/03/2016 05:33:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.10.2.min.map">
+      <publishTime>02/03/2016 05:33:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>02/03/2016 05:33:34</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>02/03/2016 05:33:34</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>02/03/2016 05:33:34</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>02/03/2016 05:33:34</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.6.2.js">
+      <publishTime>02/03/2016 05:33:32</publishTime>
+    </File>
+    <File Include="Scripts/respond.js">
+      <publishTime>02/03/2016 05:33:33</publishTime>
+    </File>
+    <File Include="Scripts/respond.min.js">
+      <publishTime>02/03/2016 05:33:33</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>02/03/2016 05:33:32</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/30/2016 23:27:39</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

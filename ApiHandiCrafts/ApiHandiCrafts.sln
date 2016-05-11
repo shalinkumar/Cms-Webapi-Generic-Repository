@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiHandiCrafts", "ApiHandiCrafts\ApiHandiCrafts.csproj", "{5F13CE00-5889-408D-B004-A38C75D0CD08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiHandiCrafts.Contract", "ApiHandiCrafts.Model\ApiHandiCrafts.Contract.csproj", "{D469DF38-88C5-4929-89E7-CFB799995753}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiHandiCrafts.Repository", "ApiHandiCrafts.Repository\ApiHandiCrafts.Repository.csproj", "{73E6CA07-826C-4E0A-AC8E-033267F1BBB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiHandiCrafts.Service", "ApiHandiCrafts.Service\ApiHandiCrafts.Service.csproj", "{A1BA4D1A-42EA-44C9-B4EC-BFA741040969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ioc.Container", "Ioc.Container\Ioc.Container.csproj", "{30AF2035-3CEA-4150-AFE1-CB7A4146FABE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandiCraftUnitTest", "HandiCraftUnitTest\HandiCraftUnitTest.csproj", "{770BF1D9-8D79-495A-87D8-8677BF140023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F13CE00-5889-408D-B004-A38C75D0CD08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F13CE00-5889-408D-B004-A38C75D0CD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F13CE00-5889-408D-B004-A38C75D0CD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F13CE00-5889-408D-B004-A38C75D0CD08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D469DF38-88C5-4929-89E7-CFB799995753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D469DF38-88C5-4929-89E7-CFB799995753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D469DF38-88C5-4929-89E7-CFB799995753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D469DF38-88C5-4929-89E7-CFB799995753}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73E6CA07-826C-4E0A-AC8E-033267F1BBB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E6CA07-826C-4E0A-AC8E-033267F1BBB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E6CA07-826C-4E0A-AC8E-033267F1BBB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E6CA07-826C-4E0A-AC8E-033267F1BBB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1BA4D1A-42EA-44C9-B4EC-BFA741040969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BA4D1A-42EA-44C9-B4EC-BFA741040969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BA4D1A-42EA-44C9-B4EC-BFA741040969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BA4D1A-42EA-44C9-B4EC-BFA741040969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30AF2035-3CEA-4150-AFE1-CB7A4146FABE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30AF2035-3CEA-4150-AFE1-CB7A4146FABE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30AF2035-3CEA-4150-AFE1-CB7A4146FABE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30AF2035-3CEA-4150-AFE1-CB7A4146FABE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770BF1D9-8D79-495A-87D8-8677BF140023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770BF1D9-8D79-495A-87D8-8677BF140023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770BF1D9-8D79-495A-87D8-8677BF140023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770BF1D9-8D79-495A-87D8-8677BF140023}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

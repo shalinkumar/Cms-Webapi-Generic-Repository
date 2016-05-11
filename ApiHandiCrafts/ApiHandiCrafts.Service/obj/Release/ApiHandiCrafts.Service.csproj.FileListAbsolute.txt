@@ -1,0 +1,11 @@
+C:\Users\shalin\OneDrive\ApiHandiCrafts\ApiHandiCrafts.Service\bin\Release\ApiHandiCrafts.Service.dll
+C:\Users\shalin\OneDrive\ApiHandiCrafts\ApiHandiCrafts.Service\bin\Release\ApiHandiCrafts.Service.pdb
+C:\Users\shalin\OneDrive\ApiHandiCrafts\ApiHandiCrafts.Service\bin\Release\ApiHandiCrafts.Contract.dll
+C:\Users\shalin\OneDrive\ApiHandiCrafts\ApiHandiCrafts.Service\bin\Release\Autofac.dll
+C:\Users\shalin\OneDrive\ApiHandiCrafts\ApiHandiCrafts.Service\bin\Release\EntityFramework.dll
+C:\Users\shalin\OneDrive\ApiHandiCrafts\ApiHandiCrafts.Service\bin\Release\ApiHandiCrafts.Contract.pdb
+C:\Users\shalin\OneDrive\ApiHandiCrafts\ApiHandiCrafts.Service\bin\Release\Autofac.xml
+C:\Users\shalin\OneDrive\ApiHandiCrafts\ApiHandiCrafts.Service\bin\Release\EntityFramework.xml
+C:\Users\shalin\OneDrive\ApiHandiCrafts\ApiHandiCrafts.Service\obj\Release\ApiHandiCrafts.Service.csprojResolveAssemblyReference.cache
+C:\Users\shalin\OneDrive\ApiHandiCrafts\ApiHandiCrafts.Service\obj\Release\ApiHandiCrafts.Service.dll
+C:\Users\shalin\OneDrive\ApiHandiCrafts\ApiHandiCrafts.Service\obj\Release\ApiHandiCrafts.Service.pdb
